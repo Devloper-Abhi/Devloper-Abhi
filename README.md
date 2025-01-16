@@ -25,4 +25,3 @@
 
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devloper-abhi&show_icons=true&locale=en" alt="devloper-abhi" /></p>
 
-<p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devloper-abhi&" alt="devloper-abhi" /></p>
